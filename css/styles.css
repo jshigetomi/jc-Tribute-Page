@@ -1,0 +1,62 @@
+body {
+    text-align: center;
+    font-size:1.6rem;
+    /* background-image: url("https://img.pixers.pics/pho_wat(s3:700/FO/63/54/24/66/700_FO63542466_ba1fdecff2720f8164a882151ecf82a7.jpg,700,700,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,650,jpg)/wall-murals-vector-seamless-background-in-victorian-style-floral-pattern.jpg.jpg"); */
+    background: rgb(236, 220, 200);
+}
+
+#main{
+    background: rgb(218, 192, 155);
+    padding: 15px;
+    margin:30px;
+    border-radius: 50px;
+    
+}
+
+#topHeading {
+    font-size: 50px;
+    font-weight:lighter;
+}
+
+h2{
+    font-size: 25px;
+    font-weight: 300;
+}
+
+figure {
+    border-radius: 50px;
+    background:white;
+    padding:10px;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 40px;
+    margin-inline-end: 40px;
+}
+
+img {
+    border-radius: 50px;
+    margin-top: 20px;
+    width: 1100px;
+    height:auto;
+}
+
+ul {
+    display:flex;
+    flex-direction: column;
+    justify-content: left;
+}
+
+li {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: left;
+    text-align: left;
+}
+
+blockquote {
+    font-size: 35px;
+    font-weight: 800;
+    font-style: italic;
+}
